@@ -1,0 +1,40 @@
+
+.navbar {
+    background: url('../public/assets/bg-stars.webp') no-repeat center center fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar-left,
+  .navbar-right {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar-left .name {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .navbar-right a {
+    text-decoration: underline;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-right a:hover {
+    color: #00bcd4;
+  }
+  
+  .navbar-right button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
