@@ -1,23 +1,27 @@
 const skills = [
     {
       category: "Embedded Systems",
-      items: ["C", "C++", "VHDL", "FPGA", "ROS2", "Microcontrollers"],
+      items: ["C", "C++", "VHDL", "FPGA", "Microcontrolers", "Matlab", "Arduino"],
     },
     {
       category: "AI & Data",
-      items: ["Python", "Pandas", "TensorFlow", "Scikit-learn", "Keras"],
+      items: ["Python", "Pandas", "TensorFlow", "Scikit-learn", "Matplotlib", "Pytorch"],
     },
     {
       category: "Cybersecurity",
-      items: ["NIST", "Cryptography", "Threat Modeling", "Vuln Scan"],
+      items: ["NIST", "Governance"],
     },
     {
       category: "Dev Tools",
-      items: ["Git", "Linux", "Docker", "VS Code"],
+      items: ["Git", "Docker", "VS Code", "Powershell", "Windows", "OSX"],
     },
     {
-      category: "Web Dev",
-      items: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+      category: "Programming skills",
+      items: ["HTML, CSS, JS", "React", "Python", "Solidity"],
+    },
+    {
+      category: "Language",
+      items: ["French (native)", "English (Professional level)", "Arabic (intermediate)", "Spanish (Beginner)"],
     },
   ];
   

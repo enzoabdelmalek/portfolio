@@ -7,7 +7,7 @@ function Resume() {
       <h2 data-aos = "zoom-in">Download My CV</h2>
       <p data-aos = "zoom-in" data-aos-delay = "0.2s">You can download my CV in PDF format below.</p>
       <a
-        href="/assets/Resume_Enzo_Abdelmalek.pdf"
+        href="/assets/Resume_Enzo_Abdelmalek_EN.pdf"
         download="Enzo_Abdelmalek_CV.pdf"
         className="btn"
       >
